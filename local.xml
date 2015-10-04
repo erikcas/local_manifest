@@ -5,12 +5,12 @@
 <remote name="fxp" fetch="git://github.com/fxpdev/" />
 <remote name="erikcas" fetch="git://github.com/erikcas/" />
 
-<project path="device/sony/amami" name="device-sony-amami" groups="device" remote="erikcas" revision="android-5.1" />
+<!--<project path="device/sony/amami" name="device-sony-amami" groups="device" remote="erikcas" revision="android-5.1" />
 <project path="device/sony/aries" name="device-sony-aries" groups="device" remote="sony" revision="master" />
 <project path="device/sony/castor" name="device-sony-castor" groups="device" remote="sony" revision="master" />
-<project path="device/sony/castor_windy" name="device-sony-castor_windy" groups="device" remote="sony" revision="master" />
+<project path="device/sony/castor_windy" name="device-sony-castor_windy" groups="device" remote="sony" revision="master" />-->
 <project path="device/sony/eagle" name="device-sony-eagle" groups="device" remote="erikcas" revision="5.1-3.4" />
-<project path="device/sony/flamingo" name="device-sony-flamingo" groups="device" remote="sony" revision="master" />
+<!--<project path="device/sony/flamingo" name="device-sony-flamingo" groups="device" remote="sony" revision="master" />
 <project path="device/sony/honami" name="device-sony-honami" groups="device" remote="sony" revision="master" />
 <project path="device/sony/leo" name="device-sony-leo" groups="device" remote="sony" revision="master" />
 <project path="device/sony/rhine-common" name="device-sony-rhine" groups="device" remote="erikcas" revision="5.1-3.4-caf" />
@@ -20,7 +20,7 @@
 <project path="device/sony/shinano" name="device-sony-shinano" groups="device" remote="sony" revision="master" />
 <project path="device/sony/sirius" name="device-sony-sirius" groups="device" remote="sony" revision="master" />
 <project path="device/sony/tianchi" name="device-sony-tianchi" groups="device" remote="sony" revision="master" />
-<project path="device/sony/togari" name="device-sony-togari" groups="device" remote="sony" revision="master" />
+<project path="device/sony/togari" name="device-sony-togari" groups="device" remote="sony" revision="master" />-->
 <!--<project path="device/qcom/sepolicy" name="device-qcom-sepolicy" groups="device" remote="sony" revision="master" />-->
 <project path="device/sony/yukon-common" name="device-sony-yukon" groups="device" remote="erikcas" revision="5.1-3.4" />
 <project path="kernel/sony/msm" name="android_kernel_sony_msm" groups="device" remote="erikcas" revision="5.1-3.4" />
