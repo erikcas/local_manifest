@@ -31,7 +31,7 @@
 
 <!--Erikcas addings-->
 
-<project path="vendor/sony" name="vendor-sony.git" groups="device" remote="erikcas" revision="r13-cam" />
+<project path="vendor/sony" name="vendor-sony" groups="device" remote="erikcas" revision="r13-cam" />
 <project path="vendor/qcom" name="vendor-qcom" groups="qcom" remote="erikcas" revision="r13-cam" />
 
 <!--Erikcas AOSP replacements-->
@@ -39,9 +39,9 @@
 <remove-project name="android_external_libnfc-nci" />
 <remove-project name="android_hardware_qcom_audio" />
 
-<project path="external/libnfc-nci" name="android_external_libnfc-nci.git" groups="pdk" remote="erikcas" revision="android-5.1" />
-<project path="frameworks/av-caf" name="android_frameworks_av.git" remote="erikcas" revision="android-5.1-caf" groups="pdk" />
+<project path="external/libnfc-nci" name="android_external_libnfc-nci" groups="pdk" remote="erikcas" revision="android-5.1" />
+<project path="frameworks/av-caf" name="android_frameworks_av" remote="erikcas" revision="android-5.1-caf" groups="pdk" />
 <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" remote="erikcas" revision="android-5.1" />
-<project path="hardware/qcom/media-caf-bfam" name="android_hardware_qcom_media-caf-bfam.git" groups="qcom" remote="erikcas" revision="5.1-3.4" />
-<project path="hardware/qcom/display-caf-bfam" name="android_hardware_qcom_display-caf-bfam.git" groups="qcom" remote="erikcas" revision="5.1-3.4" />
+<project path="hardware/qcom/media-caf-bfam" name="android_hardware_qcom_media-caf-bfam" groups="qcom" remote="erikcas" revision="android-5.1" />
+<project path="hardware/qcom/display-caf-bfam" name="android_hardware_qcom_display-caf-bfam" groups="qcom" remote="erikcas" revision="android-5.1" />
 </manifest>
